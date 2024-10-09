@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>birdres/bird1.png</file>
+        <file>birdres/bird2.png</file>
+        <file>birdres/bird3.png</file>
+        <file>birdres/bird4.png</file>
+        <file>birdres/bird5.png</file>
+        <file>birdres/bird6.png</file>
+        <file>birdres/bird7.png</file>
+        <file>birdres/bird8.png</file>
+        <file>birdres/birdIcon.ico</file>
+    </qresource>
+</RCC>
